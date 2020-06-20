@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Written by Ashutosh Maheshwari.
+
 from PIL import Image 
 import os
 # To get the username from environment variable
